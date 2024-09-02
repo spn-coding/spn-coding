@@ -47,7 +47,7 @@
 
 ### Featured Projects:
 - [Myanmar Education Portal (MEP)](https://github.com/ExBrain-B13-Group-1/MEP):
-- [Cinema Craze][(https://github.com/SawPhyoNaing/](https://github.com/ExBrain-B13-Group-1/CinemaCraze):
+- [Cinema Craze](https://github.com/ExBrain-B13-Group-1/CinemaCraze):
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=spn-coding&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
