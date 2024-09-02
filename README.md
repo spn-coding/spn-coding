@@ -63,8 +63,11 @@
 
 <h3>Visitor 
 
-![Visitor Count](https://profile-counter.glitch.me/{spn-co}/count.svg)
 </h3>
+<div>
+  
+![Visitor Count](https://profile-counter.glitch.me/{spn-co}/count.svg)
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
