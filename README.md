@@ -66,7 +66,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spn-coding&label=Profile%20views&color=0e75b6&style=flat" alt="spn-coding" /> </p>
 
-<h3>Visitor 
+<h3>Visit Count 
 
 </h3>
 <div>
